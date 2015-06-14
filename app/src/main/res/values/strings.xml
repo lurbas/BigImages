@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BigImages</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_reload">Reload</string>
+
+    <string name="empty"></string>
+
+    <!-- states -->
+    <string name="state_idle">Idle</string>
+    <string name="state_delay">Delay</string>
+    <string name="state_loading">Loading</string>
+    <string name="state_error">Error</string>
+    <string name="state_success">Success</string>
+</resources>
